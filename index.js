@@ -33,4 +33,3 @@ function mineFilter(arr, callback) {
    console.log(sum); // Output: 15
    const squaredNumbers = mineMap(numbers, (num) => num * num);
    console.log(squaredNumbers); // Output: [1, 4, 9, 16, 25]
-   has context menu
